@@ -1,1 +1,2 @@
 mysql:8.0.43
+nvidia/cuda:11.8.0-runtime-ubuntu22.04
