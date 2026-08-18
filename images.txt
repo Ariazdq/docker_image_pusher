@@ -1,1 +1,1 @@
-tdengine/tdengine:3.3.6.13
+--platform linux/arm64 node:12.22.10
