@@ -1,1 +1,1 @@
---platform linux/arm64 node:12.22.10
+openzipkin/zipkin:latest
